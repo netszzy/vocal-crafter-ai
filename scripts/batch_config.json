@@ -1,0 +1,14 @@
+{
+  "model_dir": "D:\\gpt novel\\voice\\CosyVoice\\pretrained_models\\Fun-CosyVoice3-0.5B",
+  "ref_wav": "D:\\gpt novel\\voice\\refs\\clean\\meili_huainvren_ref.wav",
+  "ref_text": "为什么你们会有这样奇怪的要求啊，那我就……你行不行啊，细狗。细狗，你行不行啊。细狗，行不行啊，细狗。",
+  "input": "D:\\gpt novel\\voice\\scripts\\batch_texts_example.txt",
+  "output_dir": "D:\\gpt novel\\voice\\outputs\\batch01",
+  "merged_output": "D:\\gpt novel\\voice\\outputs\\batch01\\speaker01_full.wav",
+  "prefix": "speaker01",
+  "start_index": 1,
+  "silence_secs": 0.35,
+  "max_chars": 120,
+  "force_cpu": false,
+  "cv3_prefix": "You are a helpful assistant.<|endofprompt|>"
+}
